@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\bin\Debug\LostNestQuestClient.exe.config
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\bin\Debug\LostNestQuestClient.exe
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\bin\Debug\LostNestQuestClient.pdb
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.exe
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.pdb
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.Pages.Homepage.resources
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.Pages.FoundItemForm.resources
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.Pages.FoundItems.resources
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.Pages.LostItemForm.resources
+C:\Users\LENOVO\source\repos\LostNestQuestClient\LostNestQuestClient\obj\Debug\LostNestQuestClient.Pages.LostItems.resources

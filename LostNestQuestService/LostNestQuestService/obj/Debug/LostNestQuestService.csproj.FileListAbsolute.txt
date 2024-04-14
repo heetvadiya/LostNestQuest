@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\bin\Debug\LostNestQuestService.dll.config
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\bin\Debug\LostNestQuestService.dll
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\bin\Debug\LostNestQuestService.pdb
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\obj\Debug\LostNestQuestService.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\obj\Debug\LostNestQuestService.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\obj\Debug\LostNestQuestService.dll
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\obj\Debug\LostNestQuestService.pdb
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\LostNestQuestService\bin\Debug\LostNestQuestService.dll.config
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\LostNestQuestService\bin\Debug\LostNestQuestService.dll
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\LostNestQuestService\bin\Debug\LostNestQuestService.pdb
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\LostNestQuestService\obj\Debug\LostNestQuestService.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\LostNestQuestService\obj\Debug\LostNestQuestService.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\LostNestQuestService\obj\Debug\LostNestQuestService.dll
+C:\Users\LENOVO\source\repos\LostNestQuestService\LostNestQuestService\LostNestQuestService\obj\Debug\LostNestQuestService.pdb

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="2f027def-d62b-45cb-8b13-8e83dd5417cd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8081/LostNestQuestService" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="b1c7d225-83f0-4cba-9335-cbf776e193ba" SourceId="1" SourceUrl="http://localhost:8081/LostNestQuestService" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="5269723f-acfd-4175-9c49-095971aef7b1" SourceId="1" SourceUrl="http://localhost:8081/LostNestQuestService" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="d5bd596b-0df2-41b5-aa49-4c5cdcf8f0a7" SourceId="1" SourceUrl="http://localhost:8081/LostNestQuestService" />
+    <MetadataFile FileName="LostNestQuestService.Contracts.xsd" MetadataType="Schema" ID="a9124a8c-09f7-4db6-bf92-1a95fdd94617" SourceId="1" SourceUrl="http://localhost:8081/LostNestQuestService" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
