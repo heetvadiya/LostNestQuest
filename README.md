@@ -10,7 +10,7 @@ LostNestQuest is an application designed to manage and report lost and found ite
 - **Item Management**: Update or delete reports as necessary. Only authorized users can manage item reports to ensure security and integrity.
 
 ## Screenshots
-![HomePage](screenshots/Screenshot2024-03-29194404.png "Home Page")
+![HomePage](screenshots/homepage.png "Home Page")
 ![Add Lost Item ](screenshots/add_lostitem_submit.png "Add Lost Item Page")
 
 ## Getting Started
